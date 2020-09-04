@@ -1,14 +1,13 @@
 # Sentiment_Learning
 
-This repository contains three notebook 
-1. First one is for the training data preperation 
-Twitter data, data cleaning using NLP methods 
+This repository contains following notebooks 
+1. Data_Preperation: Twitter data, data cleaning using NLP methods 
 
+2. Model_Selection: Hyperparameter tuning, cross-validation 
 
-2. Second one is for the model building 
-Ensemble of: DNN, XGB, LGB, save model 
+3. Dense_NN: Deep learning with Keras 
 
+4. Ensemble_Final: Stacking the model 
 
-3. Third one is analysis of sentiment based on the model 
-Twitter API, import model, analysis 
+5. pySpark: Parallel work using Apache Spark 
 
